@@ -9,5 +9,6 @@ public class Janela extends JFrame {
         this.setBounds(0,0,1920,1000);
         CardLayout ControleTela = new CardLayout();
         Jpanel telas = new JPanel(ControleTela);
+        LoginPanel =
     }
 }
