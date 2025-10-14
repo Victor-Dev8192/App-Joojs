@@ -1,4 +1,4 @@
-package Teste;
+package Interface;
 
 import javax.swing.JFrame;
 
